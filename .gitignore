@@ -42,4 +42,10 @@ Temporary Items
 # Ignore all local history of files
 .history
 
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode
