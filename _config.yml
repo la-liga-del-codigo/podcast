@@ -1,1 +1,4 @@
-theme: jekyll-theme-midnight
+title: 'Liga del Código'
+description: 'Liga del Código es un podcast de developers para developers'
+url: 'https://la-liga-del-codigo.github.io/podcast'
+podcast_cover_art_url: 'https://la-liga-del-codigo.github.io/ligadelcodigo/img/lc-logo.png'
